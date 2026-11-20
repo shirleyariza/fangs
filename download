@@ -1,0 +1,8 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+# Editores
+.vscode/
+.idea/
+# Dependencias (si algún día usas npm)
+node_modules/
